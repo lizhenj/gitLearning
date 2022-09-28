@@ -6,3 +6,7 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple
 >>>>>>> featurel
 Creating a new branch is quick and simple
+
+
+cs2
+cout<<"这是测试2的代码！"<<endl;
